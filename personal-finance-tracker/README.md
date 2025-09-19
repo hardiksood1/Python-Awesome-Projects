@@ -47,15 +47,15 @@ This app allows you to:
 ## 📸 Screenshots  
 
 ### 🏠 Dashboard  
-![Dashboard](Capture.png)  
+![Dashboard](Capture.PNG)  
 
 ### 🎯 Smart Savings Planner  
-![Smart Savings Planner](Capture20.png)  
+![Smart Savings Planner](Capture20.PNG)  
 
 ### 📈 Visualizations – Salary & Expense  
-![Visualization 1](Capture10.png)  
+![Visualization 1](Capture10.PNG)  
 
 ### 📊 Visualizations – Investment & Goal Completion  
-![Visualization 2](Capture100.png)  
+![Visualization 2](Capture100.PNG)  
 
 ---
