@@ -27,8 +27,3 @@ Predict the Air Quality Index for major cities using machine learning. This proj
 
 ---
 
-##  How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/hardiksood1/Python-Projects-MIX-.git
