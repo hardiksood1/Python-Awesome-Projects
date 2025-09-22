@@ -21,6 +21,15 @@ A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indi
 - **joblib** – optional model persistence
 
 ---
+## 🖼️ Screenshots
+
+**Dashboard View:**
+![Capture](Air Quality Index Prediction/Capture.PNG)
+
+**Prediction Example:**
+![Capture2](Air Quality Index Prediction/Capture2.PNG)
+
+---
 
 ## 📂 Project Structure
 ```
