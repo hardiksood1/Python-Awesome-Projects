@@ -24,10 +24,10 @@ A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indi
 ## 🖼️ Screenshots
 
 **Dashboard View:**
-![Capture](Air Quality Index Prediction/Capture.PNG)
+![Capture](Capture.PNG)
 
 **Prediction Example:**
-![Capture2](Air Quality Index Prediction/Capture2.PNG)
+![Capture2](Capture2.PNG)
 
 ---
 
@@ -109,5 +109,5 @@ Columns include: `City`, `PM2.5`, `PM10`, `NO`, `NO2`, `NOx`, `NH3`, `CO`, `SO2`
 
 ## 👨‍💻 Author
 **Hardik Sood**  
-📧 your-email@example.com  
+📧 hardiksood8@mail.com  
 🔗 [GitHub](https://github.com/hardiksood1)
