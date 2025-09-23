@@ -26,4 +26,13 @@ Predict the Air Quality Index for major cities using machine learning. This proj
 **Technologies used:** Python, Scikit-learn, Streamlit, Pandas, Matplotlib
 
 ---
+### 3. Birthday Wisher Bot  
+Automate sending personalized birthday wishes via email or messaging apps. This project helps you:
+- Store names, birthdates, and contact details in a file/database.  
+- Automatically check daily if it's someone’s birthday.  
+- Send personalized greetings through email or WhatsApp.  
+- Schedule reminders for upcoming birthdays.  
 
+**Technologies used:** Python, Pandas, smtplib (Email), pywhatkit (WhatsApp), Datetime  
+
+---
