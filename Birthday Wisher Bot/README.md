@@ -12,6 +12,9 @@ A simple Python automation script that checks birthdays from a list and automati
 - Easy to customize and expand.
 
 ---
+![Capture2](image.png)
+
+---
 
 ##  Project Structure
 
