@@ -1,10 +1,10 @@
-# 🌍 Air Quality Index (AQI) Prediction
+#  Air Quality Index (AQI) Prediction
 
 A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indian cities using a **Random Forest Regressor** trained on pollution metrics.
 
 ---
 
-## 🚀 Features
+##  Features
 - Predict AQI for selected Indian cities.
 - Interactive web UI built with Streamlit.
 - City label mapping shown in the sidebar.
@@ -13,7 +13,7 @@ A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3**
 - **Streamlit** – UI
 - **pandas / numpy** – data preprocessing
@@ -36,7 +36,7 @@ AQI-Prediction/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repo  
 ```
@@ -67,7 +67,7 @@ streamlit run app.py
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 1. Select a **city** from the dropdown.  
 2. Adjust **pollutant values** (PM2.5, PM10, CO, NO2, etc.) using sliders.  
 3. View the **predicted AQI** on the screen.  
@@ -75,13 +75,13 @@ streamlit run app.py
 
 ---
 
-## 📖 Dataset
+##  Dataset
 The dataset `city_day.csv` contains daily AQI measurements for Indian cities.  
 Columns include: `City`, `PM2.5`, `PM10`, `NO`, `NO2`, `NOx`, `NH3`, `CO`, `SO2`, `O3`, `Benzene`, `Toluene`, `Xylene`, `AQI`.
 
 ---
 
-## 🧪 Model
+##  Model
 - Algorithm: **RandomForestRegressor**  
 - Parameters: `max_depth=50, random_state=0`  
 - Split: 80/20 train-test  
@@ -90,15 +90,10 @@ Columns include: `City`, `PM2.5`, `PM10`, `NO`, `NO2`, `NOx`, `NH3`, `CO`, `SO2`
 
 ---
 
-## 🚧 Future Work
+##  Future Work
 - Save/load trained models with `joblib`.  
 - Add AQI trend visualizations.  
 - Deploy on **Streamlit Cloud** or **Docker**.  
 - Integrate real-time AQI API.  
 
 ---
-
-## 👨‍💻 Author
-**Hardik Sood**  
-📧 your-email@example.com  
-🔗 [GitHub](https://github.com/hardiksood1)
