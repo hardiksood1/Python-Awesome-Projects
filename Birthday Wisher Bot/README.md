@@ -1,5 +1,42 @@
-This program will check the birthday.csv file to check if today is birthday of anyone. In case there is someone's birthday it will mail them a birthday wish based on random selection from one of three predefined templates.
+#  Birthday Wisher Bot
 
-In place of my_email enter your email id and in place of password enter the app password
+A simple Python automation script that checks birthdays from a list and automatically sends personalized wishes via **Email** or future work(**WhatsApp**).
 
-In case using mail service other than gmail replace smtp 
+---
+
+##  Features
+- Store names, birthdates, and contact details in a CSV/Excel file.
+- Automatically check daily if it’s someone’s birthday.
+- Send personalized greetings through:
+  - 📧 Email (using `smtplib`)
+- Schedule reminders for upcoming birthdays.
+- Easy to customize and expand.
+
+---
+
+##  Project Structure
+
+```
+Birthday-Wisher-Bot/
+│── birthdays.csv          # Stores names, birthdates, and contacts
+│── main.py                # Main script to run the bot
+│── email_sender.py        # Handles sending emails
+│── README.md              # Project documentation
+```
+
+---
+
+## 🛠️Technologies Used
+- **Python**
+- **pandas** → to manage birthdays list
+- **smtplib** → to send emails
+- **datetime** → to check today’s date
+
+---
+
+##  Future Improvements
+- Add Telegram bot integration for headless servers.
+- Schedule birthday reminders a day before.
+- Integrate with Google Calendar for automatic sync.
+
+---
