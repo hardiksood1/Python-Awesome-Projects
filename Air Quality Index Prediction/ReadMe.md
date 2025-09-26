@@ -12,8 +12,8 @@ A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indi
 - Uses Random Forest Regressor for prediction.
 
 ---
-dashboard(Capture.PNG)
-(Capture2.PNG)
+![Dashboard](Capture.PNG)
+![](Capture2.PNG)
 
 ---
 ##  Tech Stack
