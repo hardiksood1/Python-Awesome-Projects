@@ -36,3 +36,15 @@ Automate sending personalized birthday wishes via email or messaging apps. This 
 **Technologies used:** Python, Pandas, smtplib (Email), pywhatkit (WhatsApp), Datetime  
 
 ---
+### 4. Web Scraping Tool  
+Extract important details from any website with just a URL input. This project allows you to:  
+- Input a website URL to scrape.  
+- Collect titles, headers, and paragraph data.  
+- Save extracted information into a CSV file.  
+- Store results into a database for further analysis.  
+
+**Technologies used:** Python, BeautifulSoup, Requests, Pandas, SQLite  
+
+---
+
+---
