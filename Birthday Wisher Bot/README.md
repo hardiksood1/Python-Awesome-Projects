@@ -3,7 +3,9 @@
 A simple Python automation script that checks birthdays from a list and automatically sends personalized wishes via **Email** or future work(**WhatsApp**).
 
 ---
+![ScreenShort](image.png)
 
+---
 ##  Features
 - Store names, birthdates, and contact details in a CSV/Excel file.
 - Automatically check daily if it’s someone’s birthday.
