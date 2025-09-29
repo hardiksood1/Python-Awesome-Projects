@@ -25,7 +25,7 @@ A **Streamlit app** that predicts the **Air Quality Index (AQI)** for major Indi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 AQI-Prediction/
 ├─ app.py                # Main Streamlit app
